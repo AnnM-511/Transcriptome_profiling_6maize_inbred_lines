@@ -1,7 +1,7 @@
 # Transcriptome_profiling_6maize_inbred_lines
 Data provided from RNAseq analysis of 6 maize line
 
-# Response of Zea mays transcriptome to maize lethal necrosis (MLN) disease
+# Response of Zea mays transcriptome to maize lethal necrosis (MLN) 
 ## SUMMARY
 Maize lethal necrosis (MLN) threatens Sub-Saharan Africa's food security, with few commercial inbred lines showing tolerance. This study analyzes four lines with varying MLN resistance levels. Transcriptomic analysis revealed gene expression patterns responding to MLN-causing viruses, highlighting innate immunity components like R genes and virus resistance pathways, including RNAi and ubiquitin-proteasome systems. Expression differential of translation initiation factors, eIF4E and eIF4G, was notable, with some showing phenotypic correlation. This experiment offers new prospects for breeding or engineering MLN-resistant maize germplasm.
 ## ABSTRACT
